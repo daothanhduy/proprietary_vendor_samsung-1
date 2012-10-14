@@ -19,6 +19,8 @@ PRODUCT_PACKAGES := \
     RTN \
     fRom \
     libsecril-client \
+    libsyncml_core \
+	libsyncml_port \
     lib_gsd4t \
     libims \
     libims_jni \
